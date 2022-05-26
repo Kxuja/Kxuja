@@ -18,5 +18,7 @@
 
 ----
 Credits: [Kxuja](https://github.com/kxuja)
-
+<div align = "center">
+  <img align="center" src= "https://github-profile-trophy.vercel.app/?username=kxuja&theme=gruvbox&margin-w=10" />
+</div>
 Last Edited on: 31/08/2020
