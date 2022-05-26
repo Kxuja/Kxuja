@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on MERN stack projects
 - 💬 Ask me about Web dev related Stuff
 - 📫 How to reach me:[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/abhinav-dubey-26823316a/) 
-, [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:dubey.abhinav76@gmail.com)
+, [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:dubey.kxuja@gmail.com)
 
 - ⚡ Fun fact: I like ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
@@ -17,6 +17,6 @@
 ![Abhinav's github stats](https://github-readme-stats.vercel.app/api?username=kxuja&include_all_commits=true&count_private=true&show_owner=true&show_icons=true&theme=merko)<br>
 
 ----
-Credits: [abhinavdubeyad9](https://github.com/kxuja)
+Credits: [Kxuja](https://github.com/kxuja)
 
 Last Edited on: 31/08/2020
